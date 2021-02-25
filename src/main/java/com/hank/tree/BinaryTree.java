@@ -1,4 +1,4 @@
-package tree;
+package com.hank.tree;
 
 public class BinaryTree {
 
